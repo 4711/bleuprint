@@ -2,8 +2,8 @@
 title: Bleuprint
 email: johnotander@gmail.com
 description: "A minimal Jekyll template with build tasks for scaffolding out responsive websites."
-baseurl: ""
-url: "http://bleuprint.co"
+baseurl: "/bleuprint"
+url: "http://4711.github.io"
 
 author:
   name: "John Otander"
