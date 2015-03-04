@@ -1,12 +1,12 @@
 # Site settings
 title: Bleuprint
-email: johnotander@gmail.com
+email: me@gmail.com
 description: "A minimal Jekyll template with build tasks for scaffolding out responsive websites."
 baseurl: "/bleuprint"
 url: "http://4711.github.io"
 
 author:
-  name: "John Otander"
+  name: "4711"
 
 # Build settings
 markdown: kramdown
