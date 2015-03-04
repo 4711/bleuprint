@@ -1,7 +1,7 @@
 # Site settings
 title: Bleuprint
 email: me@gmail.com
-description: "A minimal Jekyll template with build tasks for scaffolding out responsive websites."
+description: "A minimal Jekyll template with build tasks for scaffolding out responsive websites.."
 baseurl: "/bleuprint"
 url: "http://4711.github.io"
 
